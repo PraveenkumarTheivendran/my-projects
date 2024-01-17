@@ -1,0 +1,79 @@
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    
+    background-image: url('https://img.freepik.com/free-vector/collection-illustrated-fast-foods_52683-57037.jpg?w=740&t=st=1703268691~exp=1703269291~hmac=9d7f2ccc6509e41799208bb4e2949124d1c01dd1375275075a2420ed3b8410b4');
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-position:center;
+  
+}
+    section{
+        background-color: rgba(208, 220, 216, 0.491);
+    }
+  
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 1em;
+    text-align: center;
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  nav li {
+    display: inline;
+    margin-right: 20px;
+  }
+  
+  nav a {
+
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+    font-size: 18px;
+  }
+  nav a:hover{
+    color: rgb(234, 242, 117);
+    text-decoration: solid;
+  }
+  
+  section {
+    padding: 40px;
+  }
+  
+ .menu-item{color: #800000; 
+    font-family: 'Playfair Display', serif;
+    font-size: 25px;
+    font-weight: bold;}
+  
+  .order-button {
+    background-color: #4CAF50;
+    color: #fff;
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .order-button:hover {
+    background-color: #45a049;
+  }
+  
+  footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em;
+   
+    bottom: 0;
+    width: 100%;
+  }
+  #contact{
+    font-size: 20px;;
+  }
